@@ -1,0 +1,16 @@
+[
+  { "id": "1",  "name": "Harry Potter and the Philosopher's Stone", "authorId": "1", "categoryIds": ["1", "2"], "content": "The boy who lived.", "publishedDate": "1997-06-26", "createdDate": "2025-06-01", "createdBy": "1" },
+  { "id": "2",  "name": "Harry Potter and the Chamber of Secrets", "authorId": "1", "categoryIds": ["1"], "content": "A hidden chamber.", "publishedDate": "1998-07-02", "createdDate": "2025-06-02", "createdBy": "1" },
+  { "id": "3",  "name": "Harry Potter and the Prisoner of Azkaban", "authorId": "1", "categoryIds": ["1", "2"], "content": "A dangerous escape.", "publishedDate": "1999-07-08", "createdDate": "2025-06-03", "createdBy": "1" },
+  { "id": "4",  "name": "Harry Potter and the Goblet of Fire", "authorId": "1", "categoryIds": ["1"], "content": "The Triwizard Tournament.", "publishedDate": "2000-07-08", "createdDate": "2025-06-04", "createdBy": "1" },
+  { "id": "5",  "name": "Harry Potter and the Order of the Phoenix", "authorId": "1", "categoryIds": ["1"], "content": "The order rises.", "publishedDate": "2003-06-21", "createdDate": "2025-06-05", "createdBy": "1" },
+  { "id": "6",  "name": "Harry Potter and the Half-Blood Prince", "authorId": "1", "categoryIds": ["1"], "content": "The prince's secret.", "publishedDate": "2005-07-16", "createdDate": "2025-06-06", "createdBy": "1" },
+  { "id": "7",  "name": "Harry Potter and the Deathly Hallows", "authorId": "1", "categoryIds": ["1", "2"], "content": "The final battle.", "publishedDate": "2007-07-21", "createdDate": "2025-06-07", "createdBy": "1" },
+  { "id": "8",  "name": "1984", "authorId": "2", "categoryIds": ["3"], "content": "Big Brother is watching.", "publishedDate": "1949-06-08", "createdDate": "2025-06-08", "createdBy": "2" },
+  { "id": "9",  "name": "Animal Farm", "authorId": "2", "categoryIds": ["3"], "content": "All animals are equal.", "publishedDate": "1945-08-17", "createdDate": "2025-06-09", "createdBy": "2" },
+  { "id": "10", "name": "The Hobbit", "authorId": "3", "categoryIds": ["1", "2"], "content": "There and back again.", "publishedDate": "1937-09-21", "createdDate": "2025-06-10", "createdBy": "1" },
+  { "id": "11", "name": "The Fellowship of the Ring", "authorId": "3", "categoryIds": ["1", "2"], "content": "The journey begins.", "publishedDate": "1954-07-29", "createdDate": "2025-06-11", "createdBy": "1" },
+  { "id": "12", "name": "The Two Towers", "authorId": "3", "categoryIds": ["1", "2"], "content": "The fellowship breaks.", "publishedDate": "1954-11-11", "createdDate": "2025-06-12", "createdBy": "2" },
+  { "id": "13", "name": "The Return of the King", "authorId": "3", "categoryIds": ["1", "2"], "content": "The king returns.", "publishedDate": "1955-10-20", "createdDate": "2025-06-13", "createdBy": "2" },
+  { "id": "14", "name": "The Silmarillion", "authorId": "3", "categoryIds": ["1"], "content": "The elder days.", "publishedDate": "1977-09-15", "createdDate": "2025-06-14", "createdBy": "2" }
+]
